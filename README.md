@@ -2,7 +2,8 @@
 
 This is a sample application for the [Software Engineering](http://www.mit.bme.hu/oktatas/targyak/vimiab04) course at BME MIT.
 
-The application is simplified and deliberately contains bugs.
+The application is simplified and deliberately contains bugs. feature edit
+
 
 ## Getting started
 
@@ -13,7 +14,7 @@ The application is simplified and deliberately contains bugs.
 Clone the repository and execute Maven to build the application:
 
 ```
-mvn compile
+mvn compile  //feature edit
 ```
 
 To compile and run tests also execute:
